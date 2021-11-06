@@ -98,18 +98,8 @@ const listbycasts=function(cast)
    
     
 
-// const listbycasts=function(cast)
-// {
-//     const notes=loadNotes();
-//     const note=notes.filter((x)=>x.cast===cast)
-//     if(note)
-//     {
-//         console.log(note);
-//     }else
-//     {
-//         console.log(chalk.inverse.red('Not found notes'));
-//     }
-// }   
+
+  
    
  
 
@@ -120,7 +110,6 @@ module.exports = {
     listMovies:listMovies,
     listbycasts:listbycasts
 }
-//node index.js   listbycast  --cast="[f,g]"
-//node index.js   listbycast  --cast="f,r"
+
 
     
