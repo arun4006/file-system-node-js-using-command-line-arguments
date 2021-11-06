@@ -78,7 +78,7 @@ const listbydirectors=function(director)
 const listbycasts=function(cast)
 {
     const notes=loadNotes();
-    const no=notes.find(x=>x.cast===cast)
+    const isavailable=notes.find(x=>x.cast===cast)
     const note=notes.filter((x)=>x.cast.includes(cast))
     console.log(chalk.inverse.blue(cast+":acted movies :"));
     if(note)
@@ -89,14 +89,10 @@ const listbycasts=function(cast)
          });
        // console.log(note);
     }
-    if(!no)
+    if(!isavailable)
     {
         console.log(' Not acted available movies');
     }
-    
-    
-   
-    
 }
      
    
