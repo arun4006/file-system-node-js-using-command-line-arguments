@@ -1,0 +1,51 @@
+[
+    {
+        "moviename": "master",
+        "director": "lokesh",
+        "music": "anirudh",
+        "cast": "[vjs,malavika,vijay,yogi]",
+        "rating": 5
+    },
+    {
+        "moviename": "valimai",
+        "director": "vinoth",
+        "music": "yuvan",
+        "cast": "[ajith,janhvi,yogi,karthik]",
+        "rating": 5
+    },
+    {
+        "moviename": "bigil",
+        "director": "atlee",
+        "music": "ar",
+        "cast": "[vijay,yogi,vivek,nayan]",
+        "rating": 5
+    },
+    {
+        "moviename": "rajarani",
+        "director": "atlee",
+        "music": "gv",
+        "cast": "[arya,nayan,santhanam,sathish]",
+        "rating": 5
+    },
+    {
+        "moviename": "doctor",
+        "director": "nelson",
+        "music": "anirudh",
+        "cast": "[siva,priya,vinay,yogi]",
+        "rating": 4
+    },
+    {
+        "moviename": "jaibheem",
+        "director": "kanagavel",
+        "music": "gv",
+        "cast": "[suriya,jose,sean,prakash]",
+        "rating": 4
+    },
+    {
+        "moviename": "maanadu",
+        "director": "venkat",
+        "music": "yuvan",
+        "cast": "[simbhu,sj,kalyani,yogi]",
+        "rating": 4
+    }
+]
